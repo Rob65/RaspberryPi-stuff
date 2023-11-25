@@ -1,5 +1,6 @@
 # RaspberryPi 5 Mechanical designs
 
+![Raspberry Pi 5 with ICE Tower](images/Pi5_with_ICE_Tower.png)
 ## RaspberryPi5
 
 This is a copy of the original RaspberryPi5-step from https://datasheets.raspberrypi.com/ but with a number of the components colored and in Fusion360 format
